@@ -1,0 +1,11 @@
+.tabela_moda th{
+    background-color:#BB86FC ;
+}
+.tabela_casa th{
+    background-color: #00C4B4;
+}
+
+td{
+    background-color: #424250;
+    color: aliceblue; 
+}
